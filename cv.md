@@ -12,8 +12,11 @@
     ## Skills:
     ### JavaScript, PlayWright, GitHub, VisualStudio
     
-    ## Code Examples:
-    ``` html ```
+    ## Code Examples: 
+    ### Only Duplicates Task from Kata
+    ``` function onlyDuplicates(str) {
+    return str.split('').filter((el) => str.indexOf(el) !== str.lastIndexOf(el)).join('');
+    }     ```
     
     ## Experience:
     ### 2013 - 2024 IT Outsource Companies (SoftServe, WebCreek, GlobalLogic, Ciklum)
