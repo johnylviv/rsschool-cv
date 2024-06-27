@@ -1,3 +1,5 @@
+    init:
+ 
     # Yevheniy Hordiyenko
     ## Contact:
     ### E-mail: johnylviv@gmail.com
@@ -17,7 +19,7 @@
     ## Sertifications:
     ### ISTQB Foundation
     ### ISTQB Advamced Level - Test Analyst
-    ## Language:
+    ## Languages:
     ### English - B2. 
-    ### I was working with english-speaking cistomers.
+    ### I was working with english-speaking customers.
 
