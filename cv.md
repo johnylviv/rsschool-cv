@@ -1,5 +1,3 @@
-* My First commit - init:
-
     # Yevheniy Hordiyenko
     ## Contact:
     ### E-mail: johnylviv@gmail.com
