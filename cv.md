@@ -1,4 +1,4 @@
-    init:
+   * My First commit - init:
  
     # Yevheniy Hordiyenko
     ## Contact:
