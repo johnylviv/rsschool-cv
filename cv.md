@@ -19,14 +19,17 @@
     }     ```
     
     ## Experience:
-    ### 2013 - 2024 IT Outsource Companies (SoftServe, WebCreek, GlobalLogic, Ciklum)
+    ### * 2022 - 2024 IT Outsource Company Ciklum
+    ### * 2020 - 2022 IT Outsource Company GlobalLogic
+    ### * 2018 - 2020 IT Outsource Company WebCreek
+    ### * 2013 - 2018 IT Outsource Company SoftServe
     
     ## Education:
     ### Moscow State University - Applied Math. (1988 - 1993)
     
     ## Sertifications:
-    ### ISTQB Foundation
-    ### ISTQB Advamced Level - Test Analyst
+    ### * ISTQB Foundation
+    ### * ISTQB Advamced Level - Test Analyst
     
     ## Languages:
     ### English - B2. 
