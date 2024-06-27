@@ -5,7 +5,7 @@
     ### GitHub: @johnylviv
     
     ##  About me:
-    ### I am Manual Quality Assurance Engineer with great experience in IT on projects with different domain.
+    ### I am Manual Quality Assurance Engineer with great experience in IT on projects with different domains.
     ### Now I want to try to learn JavaScript Development.
     ### I like studing.
     
@@ -13,7 +13,7 @@
     ### JavaScript, PlayWright, GitHub, VisualStudio
     
     ## Code Examples: 
-    ### Only Duplicates Task from Kata
+    ### "Only Duplicates" Task from Kata:
     ``` function onlyDuplicates(str) {
     return str.split('').filter((el) => str.indexOf(el) !== str.lastIndexOf(el)).join('');
     }     ```
@@ -22,7 +22,7 @@
     ### 2013 - 2024 IT Outsource Companies (SoftServe, WebCreek, GlobalLogic, Ciklum)
     
     ## Education:
-    ### Moscow State University - Applied Math.
+    ### Moscow State University - Applied Math. (1988 - 1993)
     
     ## Sertifications:
     ### ISTQB Foundation
