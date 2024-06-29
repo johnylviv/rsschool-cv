@@ -3,7 +3,7 @@
 ## Contact:
 ### E-mail: johnylviv@gmail.com
 ### GitHub: @johnylviv
-
+![My image and avatar.](https://avatars.githubusercontent.com/u/17986894?v=4)
 ## About me:
 ### I am Manual Quality Assurance Engineer with great experience in IT on projects with different domains.
 ### Now I want to try to learn JavaScript Development.
@@ -20,17 +20,17 @@ return str.split('').filter((el) => str.indexOf(el) !== str.lastIndexOf(el)).joi
 ```
 
 ## Experience:
-### * 2022 - 2024 IT Outsource Company Ciklum
-### * 2020 - 2022 IT Outsource Company GlobalLogic
-### * 2018 - 2020 IT Outsource Company WebCreek
-### * 2013 - 2018 IT Outsource Company SoftServe
++ 2022 - 2024 IT Outsource Company Ciklum
++ 2020 - 2022 IT Outsource Company GlobalLogic
++ 2018 - 2020 IT Outsource Company WebCreek
++ 2013 - 2018 IT Outsource Company SoftServe
 
 ## Education:
 ### Moscow State University - Applied Math. (1988 - 1993)
 
 ## Sertifications:
-### * ISTQB Foundation
-### * ISTQB Advamced Level - Test Analyst
+* **ISTQB Foundation**
+* **ISTQB Advamced Level - Test Analyst**
 
 ## Languages:
 ### English - B2. 
