@@ -20,6 +20,11 @@ footer {
   font-family: arial, sans-serif;
   margin: 5px;
   padding: 5px;
+
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
 }
 
 h1 {
@@ -28,4 +33,14 @@ h1 {
 h2 {
   font-size: 30px;
 }
+
+.git-hub-logo {
+  width: 80px;
+}
+
+footer a {
+  padding: 0px 10px;
+  border: 1px black solid;
+}
+
 
